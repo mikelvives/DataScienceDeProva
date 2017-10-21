@@ -5,3 +5,5 @@ canvi fet a git.
 
 
 aquest és el canvi fet a PC. 
+
+aquest és un canvi a GITHUB. 
