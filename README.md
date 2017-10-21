@@ -9,3 +9,5 @@ aquest és un canvi a GITHUB.
 ara el lio.Areglat? 
 
 xafar el que tinc al PC. 
+
+hola?
