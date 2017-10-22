@@ -10,4 +10,4 @@ ara el lio.Areglat?
 
 xafar el que tinc al PC. 
 
-hola?
+prova
